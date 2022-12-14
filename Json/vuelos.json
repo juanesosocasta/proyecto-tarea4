@@ -1,0 +1,60 @@
+[{
+    "origen":"Manizales",
+    "destino":"Medellin",
+    "duracion":1.5,
+    "precio":95000.0
+},
+{
+    "origen":"Medellin",
+    "destino":"Cartagena",
+    "duracion":3.5,
+    "precio":25000.0
+},
+{
+    "origen":"Cali",
+    "destino":"Bogota",
+    "duracion":3.5,
+    "precio":395000.0
+},
+{
+    "origen":"Bogota",
+    "destino":"Manizales",
+    "duracion":3.5,
+    "precio":530000.0
+},
+{
+    "origen":"Manizales",
+    "destino":"Cali",
+    "duracion":3.5,
+    "precio":340000.0
+},
+{
+    "origen":"Cartagena",
+    "destino":"Medellin",
+    "duracion":1.5,
+    "precio":95000.0
+},
+{
+    "origen":"Cali",
+    "destino":"Cartagena",
+    "duracion":3.5,
+    "precio":25000.0
+},
+{
+    "origen":"Cali",
+    "destino":"Popayan",
+    "duracion":3.5,
+    "precio":395000.0
+},
+{
+    "origen":"Armenia",
+    "destino":"Manizales",
+    "duracion":3.5,
+    "precio":530000.0
+},
+{
+    "origen":"Pereira",
+    "destino":"Bogota",
+    "duracion":3.5,
+    "precio":340000.0
+}]
